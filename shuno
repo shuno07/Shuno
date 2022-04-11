@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/2c827c8cca.js" crossorigin="anonymous"></script>
+</head >
+<body>
+    <div class="navbar">
+        <a class="nav-item" href="">Gmail</a>
+        <a class="nav-item" href="">images</a>
+        <i class="fa-solid fa-bars"></i>
+    </div>
+    <div class="main">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png" width="272px" height="92px">
+    <div class="input-area">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input type="text" class="input-box">
+        <i class="fa-solid fa-microphone ma-icon"></i>
+    </div>
+    <div class="button-area">
+        <button class="button-style">Google Search</button>
+        <button class="button-style">I'm FeeSog Lucky</button>
+    </div>
+    <div>
+        <a  class="narks" href="#">한국어</a>
+        <a  class="narks" href="#">영어</a>
+        <a  class="narks" href="#">중국어</a>
+        <a  class="narks" href="#">일본어</a>
+    </div>
+    </div>
+    <div class="footer">
+        <div class="first-line">
+            한국어
+        </div>
+        <div class="second-line">
+            <span>
+                <a  class="narks" href="#">About</a>
+                <a  class="narks" href="#">Advertising</a>
+                <a  class="narks" href="#">Business</a>
+                <a  class="narks" href="#">How serch works</a>
+            </span>
+            <span class="dhfmsWhr">
+                <a  class="narks" href="#">Privacy</a>
+                <a  class="narks" href="#">Term</a>
+                <a  class="narks" href="#">Settings</a>
+            </span>
+        </div>
+    </div>
+</body>
+</html>
